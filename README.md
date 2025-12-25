@@ -1,1 +1,1 @@
-# Data-Analysis-Using-MapReduce
+This project is an introduction to Distributed Computing. The simple WordCount program is executed on a Distributed Computing Environment by creating multiple batches of Jobs. Two Methods, The Mapper and The Reducer, are implemented to create batches and merge the batches after the execution. Batch assignment to different nodes is carried out by the Hadoop Ecosystem. This project is a good exposure to highly available and scalable platforms to process Distributed Workloads.
